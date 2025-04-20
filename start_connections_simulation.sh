@@ -1,0 +1,1 @@
+python3 param_manager.py -c tcp:127.0.0.1:5762 -f simulation_ardupilot.param
